@@ -28,7 +28,7 @@ body{
   }
 #main{
     width: 100%;
-    height:max-content;
+    height:900px;
   
 }
 
@@ -90,7 +90,7 @@ margin-top: 20px;
   
 }
 #container-list-links ul li:hover{
-    background-color: transparent;
+    background-color:rgb(172, 165, 165);
 }
 #container-list-links ul li a{
     color: #fff;
